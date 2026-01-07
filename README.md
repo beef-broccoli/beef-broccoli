@@ -1,4 +1,3 @@
-👋 <samp>Hi, I'm a 5th Ph.D. student at UCLA, specializing in AI/ML and synthetic organic chemistry.</samp>
 
 -----
 
